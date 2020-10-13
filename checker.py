@@ -23,9 +23,9 @@ def runner():
         file = open("./list/" + filename, encoding='utf-8')
         if check_double(file) == False:
             file.close()
-            return "Duplicate records"
+            return "Duplicate records in "+filename
         elif check_lower(file) == False:
             file.close()
-            return "Uppercase!"
+            return "Uppercase found in "+filename
         file.close()
-        return "PASS"
+    return "PASS"
