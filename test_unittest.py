@@ -1,4 +1,4 @@
-import checker
+import parser
 
 def test_check_double():
-    assert checker.runner() == "PASS"
+    assert parser.runner() == "PASS"
