@@ -22,12 +22,12 @@ Here are the steps to contribute to this repo:
 
 1. Fork this repository
 2. Clone the repository to your local
-  `git clone https://github.com/<YOUR-USERNAME>/Stop-Words-List.git`
+    `git clone https://github.com/<YOUR-USERNAME>/Stop-Words-List.git`
 3. Create a `.txt` file in `list/` directory and rename it to following format: `[YOUR_LANGUAGE_IN_ENGLISH].txt`. For example:
-  - english.txt
-  - chinese.txt
-  - arabic.txt
-  Ignore this step if your language stop words list has already exist in this repo.
+    - english.txt
+    - chinese.txt
+    - arabic.txt
+   Ignore this step if your language stop words list has already exist in this repo.
 4. Put the stop words list in the respective file you have made on step 3/existing stop words list file. **Place only one word in one line**! If you are editing the existing stop words list file, please **DO NOT DELETE/EDIT** anything that already exist. Please ensure that the words you want to add to list have not exist yet in the txt file.
 5. Don't forget to put your name in `CONTRIBUTORS.md` and follow the format there.
 6. Save the file, commit and push to your forked repository.
