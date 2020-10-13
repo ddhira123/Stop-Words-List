@@ -29,6 +29,3 @@ def runner():
             return "Uppercase!"
         file.close()
         return "PASS"
-
-    
-
