@@ -1,0 +1,1 @@
+alphabet_detector
