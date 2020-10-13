@@ -5,6 +5,7 @@ def check_double(file):
     words = []
     for word in file.readlines():
         if word in words:
+            print(word)
             return False
         else:
             words.append(word)
@@ -28,6 +29,9 @@ def runner():
             return "Uppercase!"
         file.close()
         return "PASS"
+
+
+runner()
 
     
 
