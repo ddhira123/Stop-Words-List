@@ -30,8 +30,5 @@ def runner():
         file.close()
         return "PASS"
 
-
-runner()
-
     
 
