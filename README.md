@@ -7,7 +7,7 @@ A beginner friendly project to help you in open source contributions. An attempt
 ## What is stop word?
 
 > In computing, stop words are words which are filtered out before or after processing of natural language data. <br><br>
-> - *Wikipedia* -
+> \- *Wikipedia* -
 
 In SEO terminology, stop words are the **most common words** that most search engines avoid, for the purposes of saving space and time in processing of large data during crawling or indexing. This helps search engines to save space in their databases. For example, **at**, **which**, **is**, **the**, **and** are some words categorized as stop words.
 
