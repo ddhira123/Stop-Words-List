@@ -27,7 +27,7 @@ Here are the steps to contribute to this repo:
     - english.txt
     - chinese.txt
     - arabic.txt <br>
-Ignore this step if your language stop words list has already exist in this repo.
+> Ignore this step if your language stop words list has already exist in this repo.
 4. Put the stop words list in the respective file you have made on step 3/existing stop words list file. **Place only one word in one line**! If you are editing the existing stop words list file, please **DO NOT DELETE/EDIT** anything that already exist. Please ensure that the words you want to add to list have not exist yet in the txt file.
 5. Don't forget to put your name in `CONTRIBUTORS.md` and follow the format there.
 6. Save the file, commit and push to your forked repository.
