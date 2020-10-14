@@ -20,4 +20,8 @@
     <td>Indonesian</td>
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
   </tr>
+  <tr>
+    <td>Portuguese</td>
+    <td><a href="https://github.com/myqbr">myqbr</a></td>
+  </tr>
 </table>
