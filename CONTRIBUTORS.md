@@ -1,8 +1,23 @@
 # Hall of Fame
 
-| Language           | Contributor                               |
-| ------------------ |:-----------------------------------------:|
-| Indonesian (ID)    | [ddhira123](https://github.com/ddhira123) |
-| English (EN)       | [Aayush-Bhatt](https://github.com/Aayush-Bhatt) \
-|                    | [avouros](https://github.com/avouros) |
-| Bangla             | [Rafid Ahmed](https://github.com/Rafid-009) |
+<table>
+  <thead>
+    <th><strong>Language</strong></th>
+    <th><strong>Contributor</strong></th>
+  </thead>
+  <tr>
+    <td>Bangla</td>
+    <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>
+      <a href="https://github.com/Aayush-Bhatt">Aayush-Bhatt</a> <br>
+      <a href="https://github.com/avouros">avouros</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Indonesian</td>
+    <td><a href="https://github.com/ddhira123">ddhira123</a></td>
+  </tr>
+</table>
