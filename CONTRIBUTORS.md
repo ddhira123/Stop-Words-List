@@ -3,6 +3,6 @@
 | Language           | Contributor                               |
 | ------------------ |:-----------------------------------------:|
 | Indonesian (ID)    | [ddhira123](https://github.com/ddhira123) |
-| English (EN)       | [Aayush-Bhatt](https://github.com/Aayush-Bhatt) |
+| English (EN)       | [Aayush-Bhatt](https://github.com/Aayush-Bhatt) \
+|                    | [avouros](https://github.com/avouros) |
 | Bangla             | [Rafid Ahmed](https://github.com/Rafid-009) |
-| English (EN)       | [avouros](https://github.com/avouros) |
