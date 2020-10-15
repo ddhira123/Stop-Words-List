@@ -33,3 +33,6 @@ def runner():
         repair_double_and_rearrange(file, filename)
         file.close()
     return "PASS"
+
+
+runner()
