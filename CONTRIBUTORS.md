@@ -24,6 +24,7 @@
     <td>Portuguese</td>
     <td><a href="https://github.com/myqbr">myqbr</a></td>
   </tr>
+  
   <tr>
     <td>Hindi</td>
     <td><a href="https://github.com/Flamer17">Flamer17</a></td>
