@@ -19,7 +19,11 @@
   </tr>
   <tr>
     <td>Hindi</td>
-    <td><a href="https://github.com/Flamer17">Flamer17</a></td>
+    <td>
+      <a href="https://github.com/Flamer17">Flamer17</a>
+      <a href="https://github.com/mynameispathak">Aniket Pathak</a>
+    </td>
+
   </tr>
   <tr>
     <td>Indonesian</td>
