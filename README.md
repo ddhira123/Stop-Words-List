@@ -44,5 +44,6 @@ Here are the steps to contribute to this repo:
 - Check the whole list and ensure there's no any duplicate words.
 - DO NOT EDIT/DELETE anything that already contributed by another users unless the words are not really considered as stop word. For this case, please tell and describe this issue on your pull request.
 - DO NOT DELETE the previous contributors' names in the CONTRIBUTIORS.md
+- When filling the CONTRIBUTORS.md, please make sure the list is arranged in dictionary order based on the language name. 
 
 
