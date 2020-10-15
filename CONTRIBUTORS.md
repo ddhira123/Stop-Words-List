@@ -29,4 +29,8 @@
     <td>Portuguese</td>
     <td><a href="https://github.com/myqbr">myqbr</a></td>
   </tr>
+  <tr>
+    <td>Croatian</td>
+    <td><a href="https://github.com/myqbr">KovaCro</a></td>
+  </tr>
 </table>
