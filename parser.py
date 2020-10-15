@@ -1,10 +1,11 @@
 import os
 from alphabet_detector import AlphabetDetector
 
-def repair_double(file, filename):
+def repair_double_and_rearrange(file, filename):
     words = file.readlines()
-    words = [i.strip() for i in words ]
+    words = [i.strip() for i in words]
     words = list(dict.fromkeys(words))
+    words.sort()
     file1 = open("./list/" + filename, "w", encoding='utf-8')
     for word in words:
         file1.write(word+"\n")
@@ -29,6 +30,6 @@ def runner():
         repair_case(file, filename)
         file.close()
         file = open("./list/" + filename, encoding='utf-8')
-        repair_double(file, filename)
+        repair_double_and_rearrange(file, filename)
         file.close()
     return "PASS"
