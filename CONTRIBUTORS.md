@@ -29,4 +29,8 @@
     <td>Portuguese</td>
     <td><a href="https://github.com/myqbr">myqbr</a></td>
   </tr>
+  <tr>
+    <td>Vietnamese</td>
+    <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
+  </tr>
 </table>
