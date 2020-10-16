@@ -40,19 +40,27 @@
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
   </tr>
   <tr>
+    <td>Marathi</td>
+    <td><a href="https://github.com/shreyventure">shreyventure</a></td>
+  </tr>
+  <tr>
     <td>Portuguese</td>
     <td><a href="https://github.com/myqbr">myqbr</a></td>
   </tr>
   <tr>
-    <td>Vietnamese</td>
-    <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
+    <td>Punjabi</td>
+    <td><a href="https://github.com/JapneetSingh5">JapneetSingh5</a></td>
   </tr>
   <tr>
-    <td>Urdu, Turkish</td>
+    <td>Turkish</td>
     <td><a href="https://github.com/ReactorboY/">Reactorboy</a></td>
   </tr>
   <tr>
-    <td>Marathi</td>
-    <td><a href="https://github.com/shreyventure">shreyventure</a></td>
+    <td>Urdu</td>
+    <td><a href="https://github.com/ReactorboY/">Reactorboy</a></td>
+  </tr>
+  <tr>
+    <td>Vietnamese</td>
+    <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
   </tr>
 </table>
