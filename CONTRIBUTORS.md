@@ -10,6 +10,10 @@
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
   </tr>
   <tr>
+    <td>Croatian</td>
+    <td><a href="https://github.com/myqbr">KovaCro</a></td>
+  </tr>
+  <tr>
     <td>English</td>
     <td>
       <a href="https://github.com/Aayush-Bhatt">Aayush-Bhatt</a> <br>
@@ -28,9 +32,5 @@
   <tr>
     <td>Portuguese</td>
     <td><a href="https://github.com/myqbr">myqbr</a></td>
-  </tr>
-  <tr>
-    <td>Croatian</td>
-    <td><a href="https://github.com/myqbr">KovaCro</a></td>
   </tr>
 </table>
