@@ -1,6 +1,6 @@
 # Stop-Words-List
 
-[About](#) | [How to contribute](#how-to-contribute?) | [Rules](#contributing-rules) 
+[About](#stop-words-list) | [How to contribute](#how-to-contribute?) | [Rules](#contributing-rules) 
 :---:|:---:|:---:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub contributors](https://img.shields.io/github/contributors/ddhira123/Stop-Words-List.svg)](https://GitHub.com/ddhira123/Stop-Words-List/graphs/contributors/) ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/ddhira123/Stop-Words-List) ![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-yellow.svg?style=flat)![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![](https://img.shields.io/github/repo-size/ddhira123/Stop-Words-List.svg?label=Repo%20size&style=flat-square)&nbsp; ![Maintenance](https://img.shields.io/maintenance/yes/2020)![GitHub forks](https://img.shields.io/github/forks/ddhira123/Stop-Words-List?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/ddhira123/Stop-Words-List?style=social) 
@@ -18,10 +18,11 @@ In SEO terminology, stop words are the **most common words** that most search en
 ## How to Contribute?
 [`^ back to top ^`](#)
 
-There are 2 ways to contribute in this repo:
+There are 3 ways to contribute in this repo:
 
 - Add new stop words list file. 
 - Edit and do some improvements to existing stop words list.
+- Enhance the python script `parser.py` so it can sort the words for all languages based on the respective language dictionary.
 
 Here are the steps to contribute to this repo:
 
