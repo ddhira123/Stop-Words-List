@@ -11,6 +11,20 @@ def repair_double_and_rearrange(file, filename):
         file1.write(word+"\n")
     file1.close()
 
+def remove_unwanted(file, filename):
+    lists = file.readlines()
+    file1 = open("./list/" + filename, "w", encoding='utf-8')
+    words = []
+    punc = '!"#$%&()*+,/:;<=>?@[\\]^`{|}~'
+    for word in lists:
+        if any(j.isdigit() or j in punc for j in word):
+            continue
+        else:
+            words.append(word)
+    for word in words:
+        file1.write(word)
+    return True
+
 def repair_case(file, filename):
     lists = file.readlines()
     file1 = open("./list/" + filename, "w", encoding='utf-8')
@@ -28,6 +42,9 @@ def runner():
     for filename in os.listdir('list'):
         file = open("./list/" + filename, encoding='utf-8')
         repair_case(file, filename)
+        file.close()
+        file = open("./list/" + filename, encoding='utf-8')
+        remove_unwanted(file, filename)
         file.close()
         file = open("./list/" + filename, encoding='utf-8')
         repair_double_and_rearrange(file, filename)

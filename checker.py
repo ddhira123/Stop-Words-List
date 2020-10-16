@@ -15,3 +15,11 @@ def check_case(file):
         if ad.is_latin(word) and word.islower() == False:
             return "Please repair the case to lowercase in "+file.name+"."
     return "PASS"
+
+def check_unwanted_occurences(file):
+    lists = file.readlines()
+    punc = '!"#$%&()*+,/:;<=>?@[\\]^`{|}~'
+    for word in lists:
+        if any(j.isdigit() or j in punc for j in word):
+            return "Unwanted occurence in "+word+" in "+file.name+"."
+    return "PASS"
