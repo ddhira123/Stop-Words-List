@@ -22,6 +22,12 @@
     </td>
   </tr>
   <tr>
+    <td>French</td>
+    <td>
+      <a href="https://github.com/gpsantoz">gpsantoz</a> <br>
+    </td>
+  </tr>
+  <tr>
     <td>German</td>
     <td><a href="https://github.com/dahjah">dahjah</a></td>
   </tr>
