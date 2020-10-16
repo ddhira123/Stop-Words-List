@@ -22,7 +22,9 @@ Here are the steps to contribute to this repo:
 
 1. Fork this repository
 2. Clone the repository to your local
+
     `git clone https://github.com/<YOUR-USERNAME>/Stop-Words-List.git`
+    
 3. Create a `.txt` file in `list/` directory and rename it to following format: `[YOUR_LANGUAGE_IN_ENGLISH].txt`. For example:
     - english.txt
     - chinese.txt
@@ -32,18 +34,32 @@ Here are the steps to contribute to this repo:
 
 4. Put the stop words list in the respective file you have made on step 3/existing stop words list file. **Place only one word in one line**! If you are editing the existing stop words list file, please **DO NOT DELETE/EDIT** anything that already exist. Please ensure that the words you want to add to list have not exist yet in the txt file.
 5. Don't forget to put your name in `CONTRIBUTORS.md` and follow the format there.
-6. Save the file, commit and push to your forked repository.
-7. Create the pull request.
-8. Congratulations! You have made the priceless contribution.
+6. Save the files.
+7. Install the dependencies for `parser.py` and run the script. 
+
+    ```
+    pip install -r requirements.txt
+    python parser.py
+    ```
+    
+    > This script helps you to rearrange the list and sanitize the words.
+
+8. Commit and push to your forked repository.
+9. Create the pull request.
+10. Congratulations! You have made the priceless contribution.
 
 ## Contributing Rules
 
 - Place only one word in one line in the stop words list txt file.
-- Only lowercase alphabet is accepted for the languages using alphabet characters. 
 - To be counted as a contribution, you need to add **at least 10 lines** in your respective language file.
-- Check the whole list and ensure there's no any duplicate words.
-- DO NOT EDIT/DELETE anything that already contributed by another users unless the words are not really considered as stop word. For this case, please tell and describe this issue on your pull request.
+- Please double-check the whole list and ensure the list satisfies these requirements:
+
+    - **No any duplicate words**.
+    - All the words in the list, if they are considered as alphabet/LATIN then they must be **lowercase**.
+    - Make sure the word list is sorted according to the dictionary.
+    
 - DO NOT DELETE the previous contributors' names in the CONTRIBUTIORS.md
-- When filling the CONTRIBUTORS.md, please make sure the list is arranged in dictionary order based on the language name. 
+- When filling the CONTRIBUTORS.md, please make sure the list is arranged in dictionary order based on the language name.
+- PRs will be merged if and only if it satisfies all the rules. 
 
 
