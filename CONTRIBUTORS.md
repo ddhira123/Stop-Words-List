@@ -26,6 +26,7 @@
     <td>French</td>
     <td>
       <a href="https://github.com/gpsantoz">gpsantoz</a> <br>
+      <a href="https://github.com/sebastientinel"Sebastien</a> <br>
     </td>
   </tr>
   <tr>
