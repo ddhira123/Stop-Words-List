@@ -1,5 +1,4 @@
 import os
-from alphabet_detector import AlphabetDetector
 
 def repair_double_and_rearrange(file, filename):
     words = file.readlines()
@@ -28,10 +27,9 @@ def remove_unwanted(file, filename):
 def repair_case(file, filename):
     lists = file.readlines()
     file1 = open("./list/" + filename, "w", encoding='utf-8')
-    ad = AlphabetDetector()
     words = []
     for word in lists:
-        if ad.is_latin(word) and word.islower() == False:
+        if word.isalpha() and word.islower() == False:
             word = word.lower()
         words.append(word)
     for word in words:
