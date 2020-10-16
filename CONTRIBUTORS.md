@@ -51,4 +51,8 @@
     <td>Marathi</td>
     <td><a href="https://github.com/shreyventure">shreyventure</a></td>
   </tr>
+  <tr>
+    <td>Urdu</td>
+    <td><a href="https://github.com/ranahaani">ranahaani</a></td>
+  </tr>
 </table>
