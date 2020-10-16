@@ -46,7 +46,10 @@
   </tr>
   <tr>
     <td>Portuguese</td>
-    <td><a href="https://github.com/myqbr">myqbr</a></td>
+    <td>
+      <a href="https://github.com/myqbr">myqbr</a> <br>
+      <a href="https://github.com/FredDsR/">FredDsR</a> 
+    </td>
   </tr>
   <tr>
     <td>Punjabi</td>
