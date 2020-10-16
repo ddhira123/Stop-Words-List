@@ -12,6 +12,11 @@ class Test_TestLists(unittest.TestCase):
         for filename in os.listdir('list'):
             file = open("./list/" + filename, encoding='utf-8')
             assert checker.check_double(file) == "PASS"
+    
+    def test_check_unwanted(self):
+        for filename in os.listdir('list'):
+            file = open("./list/" + filename, encoding='utf-8')
+            assert checker.check_unwanted_occurences(file) == "PASS"
 
 
 if __name__ == '__main__':
