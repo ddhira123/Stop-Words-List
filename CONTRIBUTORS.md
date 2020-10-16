@@ -18,6 +18,10 @@
     </td>
   </tr>
   <tr>
+    <td>German</td>
+    <td><a href="https://github.com/dahjah">dahjah</a></td>
+  </tr>
+  <tr>
     <td>Hindi</td>
     <td><a href="https://github.com/Flamer17">Flamer17</a></td>
   </tr>
