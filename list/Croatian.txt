@@ -7,15 +7,10 @@ bila
 bili
 bilo
 bio
-biti
-bumo
 bismo
 biste
-će
-ćemo
-ćete
-ćeš
-ću
+biti
+bumo
 da
 do
 duž
@@ -148,7 +143,6 @@ svoj
 svoja
 svoje
 svom
-što
 ta
 tada
 taj
@@ -177,3 +171,9 @@ vi
 vrlo
 za
 zar
+će
+ćemo
+ćete
+ćeš
+ću
+što

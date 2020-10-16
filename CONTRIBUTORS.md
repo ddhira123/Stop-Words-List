@@ -51,4 +51,8 @@
     <td>Urdu, Turkish</td>
     <td><a href="https://github.com/ReactorboY/">Reactorboy</a></td>
   </tr>
+  <tr>
+    <td>Marathi</td>
+    <td><a href="https://github.com/shreyventure">shreyventure</a></td>
+  </tr>
 </table>
