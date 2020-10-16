@@ -48,7 +48,8 @@
     <td>Portuguese</td>
     <td>
       <a href="https://github.com/myqbr">myqbr</a> <br>
-      <a href="https://github.com/FredDsR/">FredDsR</a> 
+      <a href="https://github.com/FredDsR/">FredDsR</a> <br>
+      <a href="https://github.com/zealberth/">zealberth</a> 
     </td>
   </tr>
   <tr>
