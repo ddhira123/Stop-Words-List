@@ -47,4 +47,8 @@
     <td>Vietnamese</td>
     <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
   </tr>
+  <tr>
+    <td>Urdu, Turkish</td>
+    <td><a href="https://github.com/ReactorboY/">Reactorboy</a></td>
+  </tr>
 </table>
