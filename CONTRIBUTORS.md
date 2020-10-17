@@ -26,6 +26,7 @@
     <td>French</td>
     <td>
       <a href="https://github.com/gpsantoz">gpsantoz</a> <br>
+      <a href="https://github.com/sebastientinel"Sebastien</a> <br>
     </td>
   </tr>
   <tr>
@@ -34,7 +35,11 @@
   </tr>
   <tr>
     <td>Hindi</td>
-    <td><a href="https://github.com/Flamer17">Flamer17</a></td>
+    <td>
+      <a href="https://github.com/Flamer17">Flamer17</a>
+      <a href="https://github.com/mynameispathak">Aniket Pathak</a>
+    </td>
+
   </tr>
   <tr>
     <td>Indonesian</td>
@@ -55,6 +60,10 @@
   <tr>
     <td>Punjabi</td>
     <td><a href="https://github.com/JapneetSingh5">JapneetSingh5</a></td>
+  </tr>
+  <tr>
+    <td>Spanish</td>
+    <td><a href="https://github.com/eflipe">eflipe</a></td>
   </tr>
   <tr>
     <td>Turkish</td>
