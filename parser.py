@@ -17,6 +17,8 @@ def remove_unwanted(file, filename):
     for word in lists:
         if any(j.isdigit() or j in punc for j in word):
             continue
+        # elif len(word.split()) > 1:
+        #     continue
         else:
             words.append(word)
     for word in words:

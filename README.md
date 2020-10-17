@@ -57,13 +57,14 @@ Here are the steps to contribute to this repo:
 ## Contributing Rules
 [`^ back to top ^`](#)
 
-- Place only one word in one line in the stop words list txt file.
+- Place **only one word in one line** in the stop words list txt file.
 - To be counted as a contribution, you need to add **at least 10 lines** in your respective language file.
 - Please double-check the whole list and ensure the list satisfies these requirements:
 
     - **No any duplicate words**.
     - All the words in the list, if they are considered as alphabet/LATIN then they must be **lowercase**.
     - Make sure the word list is sorted according to the dictionary.
+    - **Each lines** in the list **does not contain any white space/punctuation**.
     
 - DO NOT DELETE the previous contributors' names in the CONTRIBUTIORS.md
 - When filling the CONTRIBUTORS.md, please make sure the list is arranged in dictionary order based on the language name.
