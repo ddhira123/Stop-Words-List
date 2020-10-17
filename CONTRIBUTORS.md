@@ -50,6 +50,10 @@
     <td><a href="https://github.com/shreyventure">shreyventure</a></td>
   </tr>
   <tr>
+    <td>Malay</td>
+    <td><a href="https://github.com/jawsvk">jawsvk</a></td>
+  </tr>
+  <tr>
     <td>Portuguese</td>
     <td>
       <a href="https://github.com/myqbr">myqbr</a> <br>
