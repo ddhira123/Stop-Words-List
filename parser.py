@@ -4,6 +4,8 @@ def repair_double_and_rearrange(file, filename):
     words = file.readlines()
     words = [i.strip() for i in words]
     words = list(dict.fromkeys(words))
+    if all(word.isalpha() for word in words):
+        words.sort()
     file1 = open("./list/" + filename, "w", encoding='utf-8')
     for word in words:
         file1.write(word+"\n")
