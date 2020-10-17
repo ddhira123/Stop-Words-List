@@ -12,6 +12,10 @@
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
   </tr>
   <tr>
+    <td>Chinese</td>
+    <td><a href="https://github.com/leeyubingdarrius">Darrius Lee</a></td>
+  </tr>
+  <tr>
     <td>Croatian</td>
     <td><a href="https://github.com/myqbr">KovaCro</a></td>
   </tr>
