@@ -26,6 +26,9 @@ There are 3 ways to contribute in this repo:
 - Enhance the python script `parser.py` so it can sort the words for all languages based on the respective language dictionary.
 
 ### Steps
+
+> Before doing these steps, please carefully read the [rules](#contributing-rules) and [guideline for filling the hall of fame](./CONTRIBUTING.md)
+
 Here are the steps to contribute to this repo:
 
 1. Fork this repository
