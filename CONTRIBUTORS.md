@@ -1,5 +1,7 @@
 # Hall of Fame
 
+## Stop words list contributors
+
 <table>
   <thead>
     <th><strong>Language</strong></th>
@@ -36,7 +38,7 @@
   <tr>
     <td>Hindi</td>
     <td>
-      <a href="https://github.com/Flamer17">Flamer17</a>
+      <a href="https://github.com/Flamer17">Flamer17</a> <br>
       <a href="https://github.com/mynameispathak">Aniket Pathak</a>
     </td>
 
