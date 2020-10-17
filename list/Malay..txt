@@ -1,5 +1,4 @@
 acap
-acap kali
 adakala
 adakalanya
 adalah
@@ -24,7 +23,6 @@ alkisah
 amat
 amboi
 andai
-andai kata
 aneka
 antara
 apa
@@ -54,7 +52,6 @@ betul
 bila
 bilamana
 boleh
-boleh jadi
 buat
 bukan
 celaka
@@ -134,7 +131,6 @@ nian
 nun
 oh
 oleh
-oleh itu
 pabila
 pada
 padahal
@@ -158,7 +154,6 @@ sedikit
 segala
 sejak
 sekali
-sekali peristiwa
 sekalian
 sekiranya
 selalu
