@@ -45,6 +45,10 @@
     <td>Indonesian</td>
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
   </tr>
+    <tr>
+    <td>Malay</td>
+    <td><a href="https://github.com/jawsvk">jawsvk</a></td>
+  </tr>
   <tr>
     <td>Marathi</td>
     <td><a href="https://github.com/shreyventure">shreyventure</a></td>
