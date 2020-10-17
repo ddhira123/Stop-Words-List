@@ -53,12 +53,16 @@
     <td>Portuguese</td>
     <td>
       <a href="https://github.com/myqbr">myqbr</a> <br>
-      <a href="https://github.com/FredDsR/">FredDsR</a> 
+      <a href="https://github.com/FredDsR/">FredDsR</a>
     </td>
   </tr>
   <tr>
     <td>Punjabi</td>
     <td><a href="https://github.com/JapneetSingh5">JapneetSingh5</a></td>
+  </tr>
+  <tr>
+    <td>Spanish</td>
+    <td><a href="https://github.com/eflipe">eflipe</a></td>
   </tr>
   <tr>
     <td>Turkish</td>
