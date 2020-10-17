@@ -84,4 +84,8 @@
     <td>Urdu</td>
     <td><a href="https://github.com/ranahaani">ranahaani</a></td>
   </tr>
+  <tr>
+    <td>Kannada</td>
+    <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
+  </tr>
 </table>
