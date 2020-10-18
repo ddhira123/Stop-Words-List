@@ -23,10 +23,12 @@ def check_unwanted_occurences(file):
     for word in lists:
         if any(j.isdigit() or j in punc for j in word):
             return "Unwanted occurence in "+word+" in "+file.name+"."
+        if len(word.split()) > 1:
+            return "Every lines should contain only one word and no any space!\nPlease check the word "+word+" in "+file.name
     return "PASS"
 
 
-filename = "urdu.txt"
-file = open("./list/" + filename, encoding='utf-8')
-print(check_case(file))
-file.close()
+# filename = ""
+# file = open("./list/" + filename, encoding='utf-8')
+# print(check_case(file))
+# file.close()

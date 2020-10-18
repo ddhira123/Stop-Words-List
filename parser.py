@@ -4,6 +4,8 @@ def repair_double_and_rearrange(file, filename):
     words = file.readlines()
     words = [i.strip() for i in words]
     words = list(dict.fromkeys(words))
+    if all(word.isalpha() for word in words):
+        words.sort()
     file1 = open("./list/" + filename, "w", encoding='utf-8')
     for word in words:
         file1.write(word+"\n")
@@ -17,6 +19,8 @@ def remove_unwanted(file, filename):
     for word in lists:
         if any(j.isdigit() or j in punc for j in word):
             continue
+        # elif len(word.split()) > 1:
+        #     continue
         else:
             words.append(word)
     for word in words:

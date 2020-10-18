@@ -1,5 +1,7 @@
 # Hall of Fame
 
+## Stop words list contributors
+
 <table>
   <thead>
     <th><strong>Language</strong></th>
@@ -8,6 +10,14 @@
   <tr>
     <td>Bangla</td>
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
+  </tr>
+    <tr>
+    <td>Bulgarian</td>
+    <td><a href="https://github.com/BKirev">Bozhidar Kirev</a></td>
+  </tr>
+  <tr>
+    <td>Chinese</td>
+    <td><a href="https://github.com/leeyubingdarrius">Darrius Lee</a></td>
   </tr>
   <tr>
     <td>Croatian</td>
@@ -20,6 +30,7 @@
       <a href="https://github.com/avouros">avouros</a> <br>
       <a href="https://github.com/mesps">Duda</a> <br>
       <a href="https://github.com/itsAshna">Ashna</a>
+      <a href="https://github.com/SudharshanBhimisetty">SudharshanBhimisetty</a>
     </td>
   </tr>
   <tr>
@@ -36,7 +47,7 @@
   <tr>
     <td>Hindi</td>
     <td>
-      <a href="https://github.com/Flamer17">Flamer17</a>
+      <a href="https://github.com/Flamer17">Flamer17</a> <br>
       <a href="https://github.com/mynameispathak">Aniket Pathak</a>
     </td>
 
@@ -44,6 +55,10 @@
   <tr>
     <td>Indonesian</td>
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
+  </tr>
+    <tr>
+    <td>Malay</td>
+    <td><a href="https://github.com/jawsvk">jawsvk</a></td>
   </tr>
   <tr>
     <td>Marathi</td>
@@ -80,5 +95,9 @@
   <tr>
     <td>Urdu</td>
     <td><a href="https://github.com/ranahaani">ranahaani</a></td>
+  </tr>
+  <tr>
+    <td>Kannada</td>
+    <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
   </tr>
 </table>

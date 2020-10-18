@@ -40,7 +40,10 @@ before
 begin
 being
 below
+believe
+beside
 between
+beyond
 both
 but
 by
@@ -48,6 +51,8 @@ can't
 cannot
 cause
 caused
+come
+comes
 could
 couldn't
 did
@@ -56,6 +61,7 @@ do
 does
 doesn't
 doing
+done
 don't
 down
 due
@@ -64,10 +70,12 @@ each
 else
 especially
 ever
+ex
 few
 fewer
 for
 forward
+four
 from
 further
 had
@@ -145,7 +153,9 @@ per
 possible
 present
 probably
+put
 quite
+ran
 same
 shan't
 she
@@ -223,3 +233,4 @@ your
 yours
 yourself
 yourselves
+
