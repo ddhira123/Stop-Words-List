@@ -11,6 +11,10 @@
     <td>Bangla</td>
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
   </tr>
+    <tr>
+    <td>Bulgarian</td>
+    <td><a href="https://github.com/BKirev">Bozhidar Kirev</a></td>
+  </tr>
   <tr>
     <td>Croatian</td>
     <td><a href="https://github.com/myqbr">KovaCro</a></td>
