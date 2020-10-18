@@ -8,6 +8,10 @@
     <th><strong>Contributor</strong></th>
   </thead>
   <tr>
+    <td>Arabic</td>
+    <td><a href="https://github.com/Marwa7246">Marwa Ragheb</a></td>
+  </tr>
+  <tr>
     <td>Bangla</td>
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
   </tr>
