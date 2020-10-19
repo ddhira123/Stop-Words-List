@@ -1,5 +1,7 @@
 # Hall of Fame
 
+> You can see how to write your name in this hall of fame [here](CONTRIBUTING.md)
+
 ## Stop words list contributors
 
 <table>
@@ -33,7 +35,7 @@
       <a href="https://github.com/Aayush-Bhatt">Aayush-Bhatt</a> <br>
       <a href="https://github.com/avouros">avouros</a> <br>
       <a href="https://github.com/mesps">Duda</a> <br>
-      <a href="https://github.com/itsAshna">Ashna</a>
+      <a href="https://github.com/itsAshna">Ashna</a> <br>
       <a href="https://github.com/SudharshanBhimisetty">SudharshanBhimisetty</a>
     </td>
   </tr>
