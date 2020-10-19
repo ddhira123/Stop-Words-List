@@ -60,7 +60,11 @@
     <td>Indonesian</td>
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
   </tr>
-    <tr>
+  <tr>
+    <td>Kannada</td>
+    <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
+  </tr>
+  <tr>
     <td>Malay</td>
     <td><a href="https://github.com/jawsvk">jawsvk</a></td>
   </tr>
@@ -90,18 +94,13 @@
   </tr>
   <tr>
     <td>Urdu</td>
-    <td><a href="https://github.com/ReactorboY/">Reactorboy</a></td>
+    <td>
+      <a href="https://github.com/ReactorboY/">Reactorboy</a> <br>
+      <a href="https://github.com/ranahaani">ranahaani</a>
+    </td>
   </tr>
   <tr>
     <td>Vietnamese</td>
     <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
-  </tr>
-  <tr>
-    <td>Urdu</td>
-    <td><a href="https://github.com/ranahaani">ranahaani</a></td>
-  </tr>
-  <tr>
-    <td>Kannada</td>
-    <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
   </tr>
 </table>
