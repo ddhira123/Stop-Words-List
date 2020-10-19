@@ -54,7 +54,8 @@
     <td>Hindi</td>
     <td>
       <a href="https://github.com/Flamer17">Flamer17</a> <br>
-      <a href="https://github.com/mynameispathak">Aniket Pathak</a>
+      <a href="https://github.com/mynameispathak">Aniket Pathak</a> <br>
+      <a href="https://github.com/gauravbisht005">Gaurav Bisht</a>
     </td>
 
   </tr>
