@@ -105,4 +105,8 @@
     <td>Vietnamese</td>
     <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
   </tr>
+  <tr>
+  <td>[Afrikaans]</td>
+  <td><a href="[https://github.com/dallincraven]">[DCrave]</a></td>
+</tr>
 </table>
