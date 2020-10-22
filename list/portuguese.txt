@@ -1,5 +1,4 @@
 a
-à
 agora
 ainda
 algum
@@ -22,7 +21,6 @@ aquele
 aqueles
 aquilo
 as
-às
 assim
 através
 até
@@ -75,7 +73,6 @@ dizem
 do
 dos
 e
-é
 ela
 elas
 ele
@@ -88,7 +85,6 @@ entretanto
 então
 era
 eram
-éramos
 essa
 essas
 esse
@@ -337,10 +333,6 @@ tudo
 tém
 têm
 tínhamos
-última
-últimas
-último
-últimos
 um
 uma
 umas
@@ -355,3 +347,11 @@ você
 vocês
 vos
 vós
+à
+às
+é
+éramos
+última
+últimas
+último
+últimos
