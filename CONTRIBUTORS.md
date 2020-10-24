@@ -15,8 +15,10 @@
   </tr>
   <tr>
     <td>Bangla</td>
-    <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a></td>
-  </tr>
+    <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a>
+    <br>
+    <a href="https://github.com/skinan">Muhammad Sakib Khan Inan</a></td>
+    </tr>
     <tr>
     <td>Bulgarian</td>
     <td><a href="https://github.com/BKirev">Bozhidar Kirev</a></td>
