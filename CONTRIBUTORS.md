@@ -10,6 +10,10 @@
     <th><strong>Contributor</strong></th>
   </thead>
   <tr>
+    <td>Afrikaans</td>
+    <td><a href="https://github.com/dallincraven">DCrave</a></td>
+  </tr>
+  <tr>
     <td>Arabic</td>
     <td><a href="https://github.com/Marwa7246">Marwa Ragheb</a></td>
   </tr>
@@ -18,8 +22,8 @@
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a>
     <br>
     <a href="https://github.com/skinan">Muhammad Sakib Khan Inan</a></td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>Bulgarian</td>
     <td><a href="https://github.com/BKirev">Bozhidar Kirev</a></td>
   </tr>
@@ -45,7 +49,7 @@
     <td>French</td>
     <td>
       <a href="https://github.com/gpsantoz">gpsantoz</a> <br>
-      <a href="https://github.com/sebastientinel"Sebastien</a> <br>
+      <a href="https://github.com/sebastientinel">Sebastien</a> <br>
     </td>
   </tr>
   <tr>
@@ -59,11 +63,17 @@
       <a href="https://github.com/mynameispathak">Aniket Pathak</a> <br>
       <a href="https://github.com/gauravbisht005">Gaurav Bisht</a>
     </td>
-
   </tr>
+  <tr>
+    <td>Japanese</td>
+    <td><a href="https://github.com/abhiraamkhanna">Abhiraam Khanna</a></td>
   <tr>
     <td>Indonesian</td>
     <td><a href="https://github.com/ddhira123">ddhira123</a></td>
+  </tr>
+  <tr>
+    <td>Italian</td>
+    <td><a href="https://github.com/zahrakhadijha">zahrakhadijha</a></td>
   </tr>
   <tr>
     <td>Kannada</td>
@@ -90,6 +100,10 @@
     <td><a href="https://github.com/JapneetSingh5">JapneetSingh5</a></td>
   </tr>
   <tr>
+    <td>Russian</td>
+    <td><a href="https://github.com/ranahaani">Muhammad Abdullah</a></td>
+  </tr>
+  <tr>
     <td>Spanish</td>
     <td><a href="https://github.com/eflipe">eflipe</a></td>
   </tr>
@@ -108,8 +122,4 @@
     <td>Vietnamese</td>
     <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
   </tr>
-  <tr>
-  <td>[Afrikaans]</td>
-  <td><a href="[https://github.com/dallincraven]">[DCrave]</a></td>
-</tr>
 </table>
