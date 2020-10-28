@@ -124,6 +124,6 @@
   </tr>
   <tr>
   <td>Kannada</td>
-  <td><a href="https://github.com/goverdhan07/">Goverdhan Biradar]</a></td>
+  <td><a href="https://github.com/goverdhan07/">Goverdhan Biradar</a></td>
 </tr>
 </table>
