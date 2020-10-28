@@ -78,6 +78,7 @@
   <tr>
     <td>Kannada</td>
     <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
+    <td><a href="https://github.com/goverdhan07/">Goverdhan Biradar</a></td>
   </tr>
   <tr>
     <td>Malay</td>
