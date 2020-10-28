@@ -78,7 +78,6 @@
   <tr>
     <td>Kannada</td>
     <td><a href="https://github.com/Siriayanur">Siriayanur</a></td>
-    <td><a href="https://github.com/goverdhan07/">Goverdhan Biradar</a></td>
   </tr>
   <tr>
     <td>Malay</td>
@@ -123,4 +122,8 @@
     <td>Vietnamese</td>
     <td><a href="https://github.com/hungthezorba">hungthezorba</a></td>
   </tr>
+  <tr>
+  <td>Kannada</td>
+  <td><a href="https://github.com/goverdhan07/">Goverdhan Biradar]</a></td>
+</tr>
 </table>
