@@ -18,6 +18,11 @@
     <td><a href="https://github.com/Marwa7246">Marwa Ragheb</a></td>
   </tr>
   <tr>
+    <td>Azerbaijan</td>
+    <td><a href="https://github.com/sayand0122">DCrave</a></td>
+  </tr>
+  <tr>
+  <tr>
     <td>Bangla</td>
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a>
     <br>
