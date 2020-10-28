@@ -127,6 +127,7 @@ fue
 fuera
 fueron
 gran
+grande
 grandes
 ha
 haber
@@ -177,6 +178,7 @@ mencionó
 menos
 mi
 mientras
+mis
 misma
 mismas
 mismo
