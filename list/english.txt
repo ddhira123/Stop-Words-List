@@ -1,4 +1,5 @@
 a
+able
 about
 above
 abroad
@@ -78,6 +79,12 @@ forward
 four
 from
 further
+get
+gets
+getting
+give
+given
+got
 had
 hadn't
 has
@@ -215,7 +222,9 @@ whereby
 which
 while
 who
+who'll
 who's
+whose
 whom
 why
 why's
