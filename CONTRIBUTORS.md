@@ -21,7 +21,9 @@
     <td>Bangla</td>
     <td><a href="https://github.com/Rafid-009">Rafid Ahmed</a>
     <br>
-    <a href="https://github.com/skinan">Muhammad Sakib Khan Inan</a></td>
+    <a href="https://github.com/skinan">Muhammad Sakib Khan Inan</a>
+    <br>
+    <a href="https://github.com/rubaiath-e-ulfath">Rubaiath-E-Ulfath</a></td>
   </tr>
   <tr>
     <td>Bulgarian</td>
