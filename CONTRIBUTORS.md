@@ -84,6 +84,8 @@
   <tr>
     <td>Malay</td>
     <td><a href="https://github.com/jawsvk">jawsvk</a></td>
+    <td><a href="https://github.com/jyotijangid">Jyoti Jangid</a></td>
+    
   </tr>
   <tr>
     <td>Marathi</td>
