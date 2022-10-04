@@ -108,6 +108,10 @@
     <td><a href="https://github.com/ranahaani">Muhammad Abdullah</a></td>
   </tr>
   <tr>
+    <td>Sindhi</td>
+    <td><a href="https://github.com/Jay-Kishn">Jay Kishnani</a></td>
+  </tr>
+  <tr>
     <td>Spanish</td>
     <td><a href="https://github.com/eflipe">eflipe</a></td>
   </tr>
